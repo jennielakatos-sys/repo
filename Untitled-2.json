@@ -1,0 +1,12 @@
+{
+  "theme": "dark",
+  "fontSize": 14,
+  "showLineNumbers": true,
+  "autoSaveInterval": 5,
+  "defaultFilePath": "~/Documents/GeminiFiles",
+  "tools": {
+    "spellCheck": true,
+    "grammarCheck": false,
+    "autoComplete": true
+  }
+}
