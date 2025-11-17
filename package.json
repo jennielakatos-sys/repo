@@ -4,17 +4,34 @@
   "description": "",
   "main": "quokka.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^20.1.0",
+    "@commitlint/config-conventional": "^20.0.0",
     "@typescript-eslint/eslint-plugin": "^8.46.4",
     "@typescript-eslint/parser": "^8.46.4",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^7.0.1",
-    "prettier": "^3.6.2"
+    "husky": "^8.0.0",
+    "lint-staged": "^16.2.6",
+    "prettier": "^3.6.2",
+    "pretty-quick": "^4.2.2"
+  },
+  "lint-staged": {
+    "*.{js,cjs,ts,jsx,tsx}": [
+      "prettier --write",
+      "eslint --fix",
+      "git add"
+    ],
+    "*.{json,yml,yaml,md}": [
+      "prettier --write",
+      "git add"
+    ]
   }
 }
