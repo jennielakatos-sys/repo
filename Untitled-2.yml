@@ -17,7 +17,7 @@ poetry add pytest-mock
 poetry add pytest-cov
 poetry add black
 poetry add isort
-poetry add flake8 
+poetry add flake8
 poetry add mypy
 poetry add pre-commit
 poetry add sphinx
@@ -46,8 +46,8 @@ poetry add scikit-learn
 poetry add numpy
 poetry add pandas
 poetry add matplotlib
-poetry add seaborn	
-poetry add plotly		
+poetry add seaborn
+poetry add plotly
 poetry add jupyterlab
 poetry add notebook
 poetry add nbconvert
@@ -94,7 +94,7 @@ poetry add torchaudio
 poetry add transformers
 poetry add datasets
 poetry add accelerate
-poetry add evaluate	
+poetry add evaluate
 poetry add wandb
 poetry add optuna
 poetry add mlflow
@@ -124,7 +124,7 @@ poetry add panel
 poetry add voila
 poetry add gradio
 poetry add bokeh
-poetry add altair	
+poetry add altair
 poetry add plotnine
 poetry add plotly
 poetry add folium
@@ -181,8 +181,8 @@ poetry add dvc-gdrive
 poetry add dvc-azure
 poetry add dvc-ssh
 poetry add dvc-hdfs
-poetry add dvc-oss	
-poetry add dvc-webdav	
+poetry add dvc-oss
+poetry add dvc-webdav
 poetry add mlxtend-sphinx
 poetry add imbalanced-learn-sphinx
 poetry add category-encoders-sphinx
@@ -196,16 +196,16 @@ poetry add dataprep-sphinx
 poetry add pandas-profiling-sphinx
 poetry add sweetviz-sphinx
 poetry add autofeat-sphinx
-poetry add pycaret-sphinx	
+poetry add pycaret-sphinx
 poetry add streamlit-sphinx
 poetry add dash-sphinx
 poetry add panel-sphinx
 poetry add voila-sphinx
-poetry add gradio-sphinx	
+poetry add gradio-sphinx
 poetry add bokeh-sphinx
 poetry add altair-sphinx
 poetry add plotnine-sphinx
-poetry add plotly-sphinx	
+poetry add plotly-sphinx
 poetry add folium-sphinx
 poetry add geopandas-sphinx
 poetry add basemap-sphinx
@@ -236,7 +236,3 @@ poetry add tensorflow-probability-sphinx
 poetry add torchtext-sphinx
 poetry add torchnlp-sphinx
 poetry add ignite-sphinx
-
-
-
-

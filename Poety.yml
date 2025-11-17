@@ -17,7 +17,7 @@ poetry add pytest-mock
 poetry add pytest-cov
 poetry add black
 poetry add isort
-poetry add flake8 
+poetry add flake8
 poetry add mypy
 poetry add pre-commit
 poetry add sphinx
@@ -46,8 +46,8 @@ poetry add scikit-learn
 poetry add numpy
 poetry add pandas
 poetry add matplotlib
-poetry add seaborn	
-poetry add plotly		
+poetry add seaborn
+poetry add plotly
 poetry add jupyterlab
 poetry add notebook
 poetry add nbconvert
@@ -94,7 +94,7 @@ poetry add torchaudio
 poetry add transformers
 poetry add datasets
 poetry add accelerate
-poetry add evaluate	
+poetry add evaluate
 poetry add wandb
 poetry add optuna
 poetry add mlflow
@@ -124,7 +124,7 @@ poetry add panel
 poetry add voila
 poetry add gradio
 poetry add bokeh
-poetry add altair	
+poetry add altair
 poetry add plotnine
 poetry add plotly
 poetry add folium
@@ -181,8 +181,8 @@ poetry add dvc-gdrive
 poetry add dvc-azure
 poetry add dvc-ssh
 poetry add dvc-hdfs
-poetry add dvc-oss	
-poetry add dvc-webdav	
+poetry add dvc-oss
+poetry add dvc-webdav
 poetry add mlxtend-sphinx
 poetry add imbalanced-learn-sphinx
 poetry add category-encoders-sphinx
@@ -196,16 +196,16 @@ poetry add dataprep-sphinx
 poetry add pandas-profiling-sphinx
 poetry add sweetviz-sphinx
 poetry add autofeat-sphinx
-poetry add pycaret-sphinx	
+poetry add pycaret-sphinx
 poetry add streamlit-sphinx
 poetry add dash-sphinx
 poetry add panel-sphinx
 poetry add voila-sphinx
-poetry add gradio-sphinx	
+poetry add gradio-sphinx
 poetry add bokeh-sphinx
 poetry add altair-sphinx
 poetry add plotnine-sphinx
-poetry add plotly-sphinx	
+poetry add plotly-sphinx
 poetry add folium-sphinx
 poetry add geopandas-sphinx
 poetry add basemap-sphinx
@@ -235,7 +235,7 @@ poetry add tensorflow-hub-sphinx
 poetry add tensorflow-probability-sphinx
 poetry add torchtext-sphinx
 poetry add torchnlp-sphinx
-poetry add ignite-sphinx  
+poetry add ignite-sphinx
 poetry add pytorch-lightning-sphinx
 poetry add fastai-sphinx
 poetry add catalyst-sphinx
@@ -252,7 +252,7 @@ poetry add mlflow-skinny-sphinx
 poetry add great_expectations-core-sphinx
 poetry add kedro-viz-sphinx
 poetry add dagster-graphql-sphinx
-poetry add prefect-orion-sphinx   
+poetry add prefect-orion-sphinx
 poetry add snakemake-lint-sphinx
 poetry add dvc-s3-sphinx
 poetry add dvc-gdrive-sphinx
@@ -269,20 +269,20 @@ poetry add lime-sphinx-sphinx
 poetry add eli5-sphinx-sphinx
 poetry add yellowbrick-sphinx-sphinx
 poetry add auto-sklearn-sphinx-sphinx
-poetry add featuretools-sphinx-sphinx 
+poetry add featuretools-sphinx-sphinx
 poetry add dataprep-sphinx-sphinx
 poetry add pandas-profiling-sphinx-sphinx
 poetry add sweetviz-sphinx-sphinx
 poetry add autofeat-sphinx-sphinx
 poetry add pycaret-sphinx-sphinx
-poetry add streamlit-sphinx-sphinx  
+poetry add streamlit-sphinx-sphinx
 poetry add dash-sphinx-sphinx
 poetry add panel-sphinx-sphinx
 poetry add voila-sphinx-sphinx
 poetry add gradio-sphinx-sphinx
 poetry add bokeh-sphinx-sphinx
-poetry add altair-sphinx-sphinx 
-poetry add plotnine-sphinx-sphinx 
+poetry add altair-sphinx-sphinx
+poetry add plotnine-sphinx-sphinx
 
 poetry add plotly-sphinx-sphinx
 poetry add folium-sphinx-sphinx
@@ -295,16 +295,16 @@ poetry add streamlit-aggrid-sphinx-sphinx
 poetry add streamlit-folium-sphinx-sphinx
 poetry add dash-bootstrap-components-sphinx-sphinx
 poetry add dash-core-components-sphinx-sphinx
-poetry add dash-html-components-sphinx-sphinx 
-poetry add dash-table-sphinx-sphinx       
+poetry add dash-html-components-sphinx-sphinx
+poetry add dash-table-sphinx-sphinx
 poetry add panel-extensions-sphinx-sphinx
-poetry add voila-gridstack-sphinx-sphinx  
+poetry add voila-gridstack-sphinx-sphinx
 poetry add gradio-client-sphinx-sphinx
 poetry add bokeh-sphinx-theme-sphinx-sphinx
 poetry add altair-sphinx-theme-sphinx
 poetry add folium-sphinx-theme-sphinx
 poetry add geopandas-sphinx-theme-sphinx
-poetry add rasterio-sphinx-theme-sphinx 
+poetry add rasterio-sphinx-theme-sphinx
 poetry add pydeck-sphinx-theme-sphinx
 poetry add streamlit-sphinx-theme-sphinx
 poetry add dash-sphinx-theme-sphinx
@@ -328,7 +328,7 @@ poetry add saliency-sphinx-sphinx
 poetry add zennit-sphinx-sphinx
 poetry add captum-sphinx-sphinx
 poetry add mlflow-skinny-sphinx-sphinx
-poetry add great_expectations-core-sphinx-sphinx  
+poetry add great_expectations-core-sphinx-sphinx
 poetry add kedro-viz-sphinx-sphinx
 poetry add dagster-graphql-sphinx-sphinx
 poetry add prefect-orion-sphinx-sphinx
@@ -339,7 +339,7 @@ poetry add dvc-azure-sphinx-sphinx
 poetry add dvc-ssh-sphinx-sphinx
 poetry add dvc-hdfs-sphinx-sphinx
 poetry add dvc-oss-sphinx-sphinx
-poetry add dvc-webdav-sphinx-sphinx 
+poetry add dvc-webdav-sphinx-sphinx
 poetry add mlxtend-sphinx-sphinx-sphinx
 poetry add imbalanced-learn-sphinx-sphinx-sphinx
 poetry add category-encoders-sphinx-sphinx-sphinx
@@ -365,7 +365,7 @@ poetry add bokeh-sphinx-sphinx-sphinx
 poetry add altair-sphinx-sphinx-sphinx
 poetry add plotnine-sphinx-sphinx-sphinx
 poetry add plotly-sphinx-sphinx-sphinx
-poetry add folium-sphinx-sphinx-sphinx        
+poetry add folium-sphinx-sphinx-sphinx
 poetry add geopandas-sphinx-sphinx-sphinx
 poetry add basemap-sphinx-sphinx-sphinx
 poetry add cartopy-sphinx-sphinx-sphinx
@@ -398,7 +398,7 @@ poetry add ignite-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add pytorch-lightning-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add fastai-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add catalyst-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
-poetry add alibi-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx  
+poetry add alibi-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add art-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add cleverhans-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 
@@ -417,18 +417,9 @@ poetry add snakemake-lint-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add dvc-s3-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add dvc-gdrive-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add dvc-azure-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
-poetry add dvc-ssh-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx  
+poetry add dvc-ssh-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add dvc-hdfs-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add dvc-oss-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add dvc-webdav-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add mlxtend-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
 poetry add imbalanced-learn-sphinx-sphinx-sphinx-sphinx-sphinx-sphinx
-
-
-
-
-
-
-
-
-

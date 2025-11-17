@@ -12,8 +12,8 @@ console.log(quokka);
 // See the value of a variable simply by typing its name
 quokka;
 
-  // Use breakpoints or special comments to inspect expressions
-  // without changing the code
+// Use breakpoints or special comments to inspect expressions
+// without changing the code
 
 process.memoryUsage(); //?
 
